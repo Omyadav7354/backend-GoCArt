@@ -1,1 +1,1 @@
-[﻿# GoCart-backend](https://gocart-backend-bfil.onrender.com/orders)
+[﻿# GoCart-backend](https://backend-gocart.onrender.com/vendors)
